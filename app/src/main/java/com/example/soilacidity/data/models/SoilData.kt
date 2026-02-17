@@ -1,0 +1,1 @@
+data class SoilData(val id: Int, val phLevel: Double, val moisture: Double, val nutrients: Map<String, Double>)
